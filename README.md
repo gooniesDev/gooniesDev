@@ -1,5 +1,6 @@
 ### Hi 👋👨‍💻
 <h3 align="center">Future full stack developer</h3>
+
 ```js
     const gooniesDev {
         passions: [Study, program, solve problems, help people]
