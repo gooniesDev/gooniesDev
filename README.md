@@ -1,4 +1,4 @@
-### Hi 👋👨‍💻
+### Hi, I'm Gabriel 👋👨‍💻
 <h3 align="center">Future full stack developer</h3>
 
 ```js
