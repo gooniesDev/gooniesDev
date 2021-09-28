@@ -3,7 +3,7 @@
 
 ```js
     const gooniesDev {
-        passions: [Study, program, solve problems, help people]
+        passions: ["Study", "programming", "solve problems", "help people"];
     }
 ```
 
