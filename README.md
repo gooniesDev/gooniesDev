@@ -8,5 +8,4 @@
 You can find me 🌎:
 
   [Medium](https://medium.com/@gabomunozcastro)
-
   [Linkedin](https://www.linkedin.com/in/goonies/)
