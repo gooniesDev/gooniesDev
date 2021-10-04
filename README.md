@@ -1,5 +1,5 @@
 ### Hi, I'm Gabriel 👋👨‍💻
-<h3 align="center">Future Software Engineerr</h3>
+<h3 align="center">Future Software Engineer</h3>
 
 ```js
     const gooniesDev {
