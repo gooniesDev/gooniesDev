@@ -1,7 +1,13 @@
 ### Hi, I'm Gabriel 👋👨‍💻
 <h3 align="center">Future Software Engineer</h3>
 
-Hi, I'm a student and I love technology, especially programming languages ​​like C or C ++, in addition to this, the terminal fascinates me and I consider myself bad for graphic or UI design (I do my best) 😅. Sometimes I write on Medium. I am improving my Github, I am missing more quality projects   
+```swift
+print("I am a student and lover of self-taught study, I love technology 💻 and music 🎸 ")
+```
+
+- 🔭  I’m currently working on my studies🎓
+- 🌱  I’m currently learning Swift🖱, Sql 💾
+- 💬  Ask me about anything related to Programming or music 🤩 
 
 ```js
     const gooniesDev {
