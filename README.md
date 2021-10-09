@@ -1,9 +1,6 @@
 ### Hi, I'm Gabriel 👋👨‍💻
 <h3 align="center">Future Software Engineer</h3>
 
-```swift
-print("I am a student and lover of self-taught study, I love technology 💻 and music 🎸 ")
-```
 
 - 🔭  I’m currently working on my studies🎓
 - 🌱  I’m currently learning Swift🖱, Sql 💾
