@@ -1,5 +1,5 @@
 ### Hi, I'm Gabriel 👋👨‍💻
-<h3 align="center">Future Software Engineer</h3>
+<h3 align="center">future programmer</h3>
 
 ```js
     const gooniesDev {
@@ -8,8 +8,20 @@
 ```
 
 - 🔭  I’m currently working on my studies🎓
-- 🌱  I’m currently learning python🐍, mongoDB 💾
+- 🌱  I’m currently learning python🐍
 - 💬  Ask me about anything related to Programming or music 🤩 
+
+## Technologies and languages of interest:
+
+- 💾 Database
+
+- 🤖 Machine Learning
+
+- ⚙️ Backend
+
+- Golang
+
+- 💻 Bash Scripting
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,3 +35,5 @@
 
 [![Goonies GitHub stats](https://github-readme-stats.vercel.app/api?username=gooniesDev)](https://github.com/anuraghazra/github-readme-stats)
 ![Goonies Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gooniesDev&layout=compact)
+
+![Profile views counter](https://komarev.com/ghpvc/?username=gooniesDev&style=flat-square)
