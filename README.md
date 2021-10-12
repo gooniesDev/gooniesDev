@@ -22,3 +22,4 @@
 
 
 [![Goonies GitHub stats](https://github-readme-stats.vercel.app/api?username=gooniesDev)](https://github.com/anuraghazra/github-readme-stats)
+![Goonies Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gooniesDev&layout=compact)
