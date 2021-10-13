@@ -29,8 +29,8 @@
  - [Linkedin](https://www.linkedin.com/in/goonies/)
 
 
-![Goonies GitHub stats](https://github-readme-stats.vercel.app/api?username=gooniesDev&count_private=true&show_icons=true&theme=onedark)
+![Goonies GitHub stats](https://github-readme-stats.vercel.app/api?username=gooniesDev&count_private=true&show_icons=true&theme=dracula)
 
-![Goonies Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gooniesDev&layout=compact&theme=onedark)
+![Goonies Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gooniesDev&layout=compact&theme=dracula)
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=gooniesDev&style=flat-square)
