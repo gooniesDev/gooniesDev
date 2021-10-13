@@ -8,7 +8,7 @@
 ```
 
 - 🔭  I’m currently working on my studies🎓
-- 🌱  I’m currently learning python🐍
+- 🌱  I’m currently learning Javascrip💡
 - 💬  Ask me about anything related to Programming or music 🤩 
 
 ## Technologies and languages of interest:
@@ -18,10 +18,6 @@
 - 🤖 Machine Learning
 
 - ⚙️ Backend
-
-- Golang
-
-- 💻 Bash Scripting
 
 ## 
 <h3 align="left">Languages and Tools:</h3>
