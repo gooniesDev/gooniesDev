@@ -1,5 +1,5 @@
 ### Hi, I'm Gabriel 👋👨‍💻
-<h3 align="center">future programmer</h3>
+<h3 align="center">future Data Engineer</h3>
 
 ```js
     const gooniesDev {
@@ -13,11 +13,13 @@
 
 ## Technologies and languages of interest:
 
-- 💾 Database
+- 💾 Database (SQL/NoSQL)
 
-- 🤖 Machine Learning
+- 🤖 Machine Learning with Python
 
 - ⚙️ Backend
+
+- ☁️ Cloud Computing
 
 ## 
 <h3 align="left">Languages and Tools:</h3>
