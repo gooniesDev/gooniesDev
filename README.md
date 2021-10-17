@@ -1,11 +1,12 @@
 ### Hi, I'm Gabriel 👋👨‍💻
 <h3 align="center">Future Data Engineer</h3>
 
-```js
-    const gooniesDev {
-        passions: ["Study", "programming", "solve problems", "help people"];
+```python
+    gooniesDev {
+        'passions': ['Study', 'programming', "solve problems", "help people"]
     }
 ```
+<br />
 
 - 🔭  I’m currently working on my studies 🎓
 - 🌱  I’m currently learning Python 🐍
