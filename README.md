@@ -3,7 +3,12 @@
 
 ```python
     gooniesDev {
-        'passions': ['Study', 'programming', "solve problems", "help people"]
+        'passions': [
+            'Study', 
+            'programming', 
+            'solve problems',
+            'help people'
+            ]
     }
 ```
 <br />
